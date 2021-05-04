@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yizhang5/test/_apis/build/status/yizhang4321.pipelines-java?branchName=master)](https://dev.azure.com/yizhang5/test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
